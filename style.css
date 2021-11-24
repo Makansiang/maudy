@@ -3,12 +3,11 @@ body {
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: rgb(215, 255, 250);
+  background-color: rgb(194, 253, 255);
 }
 
 #sell {
-  background-color: rgb(215, 255, 250);
-  padding-top: 6rem;
+  background-color: rgb(194, 253, 255);
 }
 
 section {
